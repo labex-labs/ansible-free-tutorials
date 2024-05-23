@@ -6,8 +6,8 @@
 
 Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
 
-|   Index | Name                                   | Difficulty   | Tutorial                                                                                  |
-|---------|----------------------------------------|--------------|-------------------------------------------------------------------------------------------|
+|   Index | Name                                  | Difficulty   | Tutorial                                                                                 |
+|---------|---------------------------------------|--------------|------------------------------------------------------------------------------------------|
 |      01 | 📖 Ansible Installation on Ubuntu      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-installation-on-ubuntu-67172)       |
 |      02 | 📖 Ansible Script Module               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-script-module-289411)               |
 |      03 | 📖 Ansible Shell Module                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-shell-module-289409)                |
@@ -51,7 +51,8 @@ Ansible is an open-source software provisioning, configuration management, and a
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Ansible Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Ansible Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
