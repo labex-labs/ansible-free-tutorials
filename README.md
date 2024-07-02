@@ -6,22 +6,22 @@
 
 Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code. It runs on many Unix-like systems, and can configure both Unix-like systems as well as Microsoft Windows. It includes its own declarative language to describe system configuration.
 
-|   Index | Name                                  | Difficulty   | Tutorial                                                                                         |
-|---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------|
-|      01 | 📖 Ansible Installation on Ubuntu      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-installation-on-ubuntu-67172)       |
-|      02 | 📖 Ansible Script Module               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-script-module-289411)               |
-|      03 | 📖 Ansible Shell Module                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-shell-module-289409)                |
-|      04 | 📖 Ansible Apt Module                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-apt-module-289651)                  |
-|      05 | 📖 Ansible Copy Module                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-copy-module-289653)                 |
-|      06 | 📖 Ansible File Module                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-file-module-289654)                 |
-|      07 | 📖 Ansible Cron Module                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-cron-module-290157)                 |
-|      08 | 📖 Ansible Fetch Module                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-fetch-module-290159)                |
-|      09 | 📖 Ansible Groups Inventory            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-groups-inventory-290160)            |
-|      10 | 📖 Ansible Command Module              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-command-module-290161)              |
-|      11 | 📖 Ansible get_url Module              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-get-url-module-290188)              |
-|      12 | 📖 Ansible Local Action Module         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-local-action-module-290189)         |
-|      13 | 📖 Ansible Stat Module                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-ansible-stat-module-290192)                 |
-|      14 | 📖 Manage Multiple Ansible Inventories | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/ansible-manage-multiple-ansible-inventories-290193) |
+|   Index | Name                                                                                                                   | Difficulty   | Tutorial Link                                                                           |
+|---------|------------------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------|
+|      01 | [📖 Ansible Installation on Ubuntu](https://labex.io/tutorials/ansible-ansible-installation-on-ubuntu-67172)            | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-installation-on-ubuntu-67172)       |
+|      02 | [📖 Ansible Script Module](https://labex.io/tutorials/ansible-ansible-script-module-289411)                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-script-module-289411)               |
+|      03 | [📖 Ansible Shell Module](https://labex.io/tutorials/ansible-ansible-shell-module-289409)                               | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-shell-module-289409)                |
+|      04 | [📖 Ansible Apt Module](https://labex.io/tutorials/ansible-ansible-apt-module-289651)                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-apt-module-289651)                  |
+|      05 | [📖 Ansible Copy Module](https://labex.io/tutorials/ansible-ansible-copy-module-289653)                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-copy-module-289653)                 |
+|      06 | [📖 Ansible File Module](https://labex.io/tutorials/ansible-ansible-file-module-289654)                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-file-module-289654)                 |
+|      07 | [📖 Ansible Cron Module](https://labex.io/tutorials/ansible-ansible-cron-module-290157)                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-cron-module-290157)                 |
+|      08 | [📖 Ansible Fetch Module](https://labex.io/tutorials/ansible-ansible-fetch-module-290159)                               | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-fetch-module-290159)                |
+|      09 | [📖 Ansible Groups Inventory](https://labex.io/tutorials/ansible-ansible-groups-inventory-290160)                       | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-groups-inventory-290160)            |
+|      10 | [📖 Ansible Command Module](https://labex.io/tutorials/ansible-ansible-command-module-290161)                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-command-module-290161)              |
+|      11 | [📖 Ansible get_url Module](https://labex.io/tutorials/ansible-ansible-get-url-module-290188)                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-get-url-module-290188)              |
+|      12 | [📖 Ansible Local Action Module](https://labex.io/tutorials/ansible-ansible-local-action-module-290189)                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-local-action-module-290189)         |
+|      13 | [📖 Ansible Stat Module](https://labex.io/tutorials/ansible-ansible-stat-module-290192)                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-ansible-stat-module-290192)                 |
+|      14 | [📖 Manage Multiple Ansible Inventories](https://labex.io/tutorials/ansible-manage-multiple-ansible-inventories-290193) | ★☆☆          | [🔗 View](https://labex.io/tutorials/ansible-manage-multiple-ansible-inventories-290193) |
 
 ## More Free Tutorials
 
